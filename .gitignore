@@ -5,4 +5,4 @@
 **/Properties/
 *.sln
 *.csproj
-/.vs
+.vs/
