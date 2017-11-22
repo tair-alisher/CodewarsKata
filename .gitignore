@@ -2,3 +2,7 @@
 */TestResults/
 **/bin/
 **/obj/
+**/Properties/
+*.sln
+*.csproj
+/.vs
