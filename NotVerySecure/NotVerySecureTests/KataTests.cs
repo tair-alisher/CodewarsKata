@@ -15,7 +15,7 @@ namespace NotVerySecureTests
         }
 
         [TestMethod]
-        public void Alphanumeric_WhenInputValueIsNotCorerct ()
+        public void Alphanumeric_WhenInputValueIsNotCorrect ()
         {
             Assert.AreEqual(false, Kata.Alphanumeric("hello world_"));
             Assert.AreEqual(false, Kata.Alphanumeric("      "));
